@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Joseph Adithya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right alt="Coding" width="400" src="[https://sbinnovations.in/images/web.gif](https://lottie.host/794632de-4d97-4fd7-9c4f-2df0c34a2d97/EAU8lM9oa2.json)"/>
+<img align="right alt="Coding" width="400" src="https://raw.githubusercontent.com/navishkadarshana/navishkadarshana/main/animation_500_l4ld57sp.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeladit&label=Profile%20views&color=0e75b6&style=flat" alt="joeladit" /> </p>
 
