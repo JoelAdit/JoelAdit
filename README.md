@@ -14,10 +14,6 @@
 
 ###
 
-<p align="left">____________________________________________________________________________________________________________________</p>
-
-###
-
 <br clear="both">
 
 <h3 align="left">Languages and Tools :</h3>
@@ -28,29 +24,29 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=pr" height="35" alt="adobepremierepro logo"  />
-  <img width="24" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=unity" height="35" alt="unity logo"  />
 </div>
 
