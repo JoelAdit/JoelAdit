@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="23" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
@@ -68,7 +68,7 @@
 
 <br clear="both">
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="center">Connect with me :</h3>
 
 ###
 
