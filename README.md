@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **Track Back**<br><br>- 👯 I’m looking to collaborate on **Web Designing Projects**<br><br>- 🌱 I’m currently learning **Backend Development**<br><br>- 👨‍💻 All of my projects are available at https://portfolio-react-bice-tau.vercel.app/<br><br>- 💬 Ask me about **Frontend/ MERN stack Dev..**<br><br>- 📫 How to reach me  <a href="mailto:adithya649@gmail.com"> adithya649@gmail.com </a></p>
+<p align="left">
+  - 🔭 I’m currently working on **Track Back**<br><br> 
+  - 👯 I’m looking to collaborate on **Web Designing Projects**<br><br> 
+  - 🌱 I’m currently learning **Backend Development**<br><br>- 👨‍💻 All of my projects are available at https://portfolio-react-bice-tau.vercel.app/<br><br> 
+  - 💬 Ask me about **Frontend/ MERN stack Dev..**<br><br> 
+  - 📫 Reach me  <b> adithya649@gmail.com </b></p>
 
 ###
 
