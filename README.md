@@ -11,12 +11,18 @@
 ###
 
 <p align="left">
-  - 🔭 I’m currently working on **Track Back**<br><br> 
-  - 👯 I’m looking to collaborate on **Web Designing Projects**<br><br> 
-  - 🌱 I’m currently learning **Backend Development**<br><br>- 👨‍💻 All of my projects are available at https://portfolio-react-bice-tau.vercel.app/<br><br> 
-  - 💬 Ask me about **Frontend/ MERN stack Dev..**<br><br> 
-  - 📫 Reach me  <b> adithya649@gmail.com </b></p>
+- 🔭 I’m currently working on **Track Back**
 
+- 👯 I’m looking to collaborate on **Web Designing Projects**
+
+- 🌱 I’m currently learning **Backend Development**
+
+- 👨‍💻 All of my projects are available at https://portfolio-react-bice-tau.vercel.app/
+
+- 💬 Ask me about **Frontend/ MERN stack Dev..**
+
+- 📫 How to reach me **adithya649@gmail.com**
+  
 ###
 
 <br clear="both">
