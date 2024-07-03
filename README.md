@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="center">Languages and Tools</h3>
 
 ###
 
@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="mailto:adithya649@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="30" alt="gmail logo"  />
   </a>
