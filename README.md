@@ -67,10 +67,12 @@
   <a href="https://www.linkedin.com/in/josephadithya/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="30" alt="linkedin logo"  />
   </a>
-  <a href="confused_josh" target="_blank">
+  <a href="https://www.instagram.com/confused_josh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="30" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="54" height="30" alt="whatsapp logo"  />
+  <a href="https://wa.me/919551926550 " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="54" height="30" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
