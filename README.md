@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **Track Back**<br><br>- 👯 I’m looking to collaborate on **Web Designing Projects**<br><br>- 🌱 I’m currently learning **Backend Development**<br><br>- 👨‍💻 All of my projects are available at https://portfolio-react-bice-tau.vercel.app/<br><br>- 💬 Ask me about **Frontend/ MERN stack Dev..**<br><br>- 📫 How to reach me **adithya649@gmail.com**</p>
+<p align="left">- 🔭 I’m currently working on **Track Back**<br><br>- 👯 I’m looking to collaborate on **Web Designing Projects**<br><br>- 🌱 I’m currently learning **Backend Development**<br><br>- 👨‍💻 All of my projects are available at https://portfolio-react-bice-tau.vercel.app/<br><br>- 💬 Ask me about **Frontend/ MERN stack Dev..**<br><br>- 📫 How to reach me  <a href="mailto:adithya649@gmail.com"> adithya649@gmail.com </a></p>
 
 ###
 
@@ -61,7 +61,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTwqXBFDpJSRltvdLHxpSddklflmBzjXtlxmXhnXCzfXxszJdXKdqcpktmxffsLxMtGwb" target="_blank">
+  <a href="mailto:adithya649@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/josephadithya/" target="_blank">
