@@ -61,7 +61,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="mailto:adithya649@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTwqXBFDpJSRltvdLHxpSddklflmBzjXtlxmXhnXCzfXxszJdXKdqcpktmxffsLxMtGwb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/josephadithya/" target="_blank">
