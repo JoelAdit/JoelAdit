@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate frontend developer 💻</h3>
+<h3 align="center">A passionate FrontEnd-Developer 💻</h3>
 
 
 <img align="right" height="300" src="https://raw.githubusercontent.com/navishkadarshana/navishkadarshana/main/animation_500_l4ld57sp.gif"  />
